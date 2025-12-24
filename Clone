@@ -1,0 +1,4 @@
+Clone means creating a local copy of a remote repository on your own computer.
+When you clone a repository, you download all files, commits, and the complete history of the project.
+This allows you to work on the project offline and track changes use Git.
+https://foundations.projectpythia.org/foundations/github/github-cloning-forking/
