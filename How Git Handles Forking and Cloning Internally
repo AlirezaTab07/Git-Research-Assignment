@@ -1,0 +1,2 @@
+When you fork a repository, GitHub creates a full copy of the original repository on its servers and assigns it to your account.
+When you clone a repository, Git downloads the entire project history to your local machine and sets a remote connection (usually named origin) to the original repository.
